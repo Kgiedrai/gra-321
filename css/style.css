@@ -1,7 +1,16 @@
-* {background-color: lightgrey;
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+
+body
+{background-color: beige;
 
 }
 
-h1 {
+h1 {font-family: 'Oswald', sans-serif;
+
+}
+h4 {font-family: 'Oswald', sans-serif;}
+h5 {font-family: 'Oswald', sans-serif;}
+li {font-family: 'Oswald', sans-serif;
+color: grey;
 
 }
