@@ -1,0 +1,16 @@
+* {background-color: beige;
+}
+.padding-hover:hover {
+  background-color: lightpink;
+  color:black;
+  text-decoration:underline;
+
+}
+
+
+button {
+  background-color: salmon;
+  color: white;
+
+
+}
