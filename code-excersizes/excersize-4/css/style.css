@@ -1,7 +1,13 @@
 * {background-color: beige;
 
 }
-
+.container {
+background-image: url(penguin_magazine_layout.pdf);
+background-size: cover;
+height:700px;
+margin: 40 auto;
+width:100%;
+}
 h1 {
 
 }
